@@ -53,11 +53,12 @@ The backend API exposes various endpoints for product management. Below are the 
       git clone https://github.com/dhanushkorada/Shopsphere.git
       cd Shopsphere
    ```
-2. Navigate to the backend directory:
-
-  ```bash
+2. Navigate to the Backend directory::
+   
+   ```bash
      cd backend
-  ```
+   ```
+
 3. Run the Spring Boot application:
 
    ```bash
@@ -69,7 +70,7 @@ The backend API exposes various endpoints for product management. Below are the 
 1. Navigate to the Frontend directory::
    
    ```bash
-     cd backend
+     cd frontend
    ```
 2. Install dependencies:
 
