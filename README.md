@@ -84,6 +84,26 @@ The backend API exposes various endpoints for product management. Below are the 
 
 Once both the backend and frontend are running, you can access the application at http://localhost:5173 (Vite app) and interact with the e-commerce features.
 
+## Application Preview
+
+Take a look at some screenshots showcasing key features and pages of the application
+
+### 1. Home Page
+A welcoming interface where users can browse available products.
+![Home Page](Img4.png)
+
+### 2. Product Details Page
+Detailed view of a selected product with options to add it to the cart.
+![Product Details](./screenshots/product-page.png)
+
+### 3. Shopping Cart
+Overview of items added to the cart with the ability to proceed to checkout.
+![Shopping Cart](./screenshots/cart-page.png)
+
+### 3. Add new product
+List of details to be filled for adding a new product.
+![Shopping Cart](./screenshots/cart-page.png)
+
 ## Notes:
 
 1. **Update URLs and Paths**: Make sure to replace placeholder URLs (like `https://github.com/yourusername/ecom_project.git`) with the actual URL of your GitHub repository.
