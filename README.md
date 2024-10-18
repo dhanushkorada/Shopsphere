@@ -105,9 +105,3 @@ Overview of items added to the cart with the ability to proceed to checkout.
 ### 3. Add new product
 List of details to be filled for adding a new product.
 ![New Product](Img3.png)
-
-## Notes:
-
-1. **Update URLs and Paths**: Make sure to replace placeholder URLs (like `https://github.com/yourusername/ecom_project.git`) with the actual URL of your GitHub repository.
-2. **Example Usage**: Adjust the example requests to fit your actual API structure.
-3. **License**: Add or change the license section based on your project's licensing.
