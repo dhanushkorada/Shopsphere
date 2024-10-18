@@ -48,12 +48,12 @@ The backend API exposes various endpoints for product management. Below are the 
 ### Backend
 
 1. Clone the repository:
-   
+
    ```bash
       git clone https://github.com/dhanushkorada/Shopsphere.git
       cd Shopsphere
    ```
-3. Navigate to the backend directory:
+2. Navigate to the backend directory:
 
   ```bash
      cd Shopsphere
@@ -71,12 +71,12 @@ The backend API exposes various endpoints for product management. Below are the 
    ```bash
      cd backend
    ```
-3. Install dependencies:
+2. Install dependencies:
 
    ```bash
       npm install
    ```
-4. Start the React application:
+3. Start the React application:
 
    ```bash
       npm run dev
@@ -96,15 +96,15 @@ A welcoming interface where users can browse available products.
 
 ### 2. Product Details Page
 Detailed view of a selected product with options to add it to the cart.
-![Product Details](Img2)
+![Product Details](Img2.png)
 
 ### 3. Shopping Cart
 Overview of items added to the cart with the ability to proceed to checkout.
-![Shopping Cart](Img4)
+![Shopping Cart](Img4.png)
 
 ### 3. Add new product
 List of details to be filled for adding a new product.
-![New Product](Img3)
+![New Product](Img3.png)
 
 ## Notes:
 
