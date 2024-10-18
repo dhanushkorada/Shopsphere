@@ -23,9 +23,9 @@ ShopSphere is an e-commerce web application that allows users to browse, search,
 
 ## Technologies Used
 
-- **Backend**: Spring Boot, Java, JPA, Hibernate
-- **Frontend**: React, Axios, React Router
-- **Database**: H2 Database (or any other preferred database)
+- **Backend**: Spring Boot, Java, JPA, Hibernate, Maven
+- **Frontend**: React, Axios, React Router, HTML, CSS, Javascript, Vite
+- **Database**: H2 Database, SQL
 - **Image Upload**: MultipartFile for handling images
 
 ## Frontend
