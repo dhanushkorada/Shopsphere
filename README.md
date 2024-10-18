@@ -77,8 +77,12 @@ The backend API exposes various endpoints for product management. Below are the 
 3. Start the React application:
 
    ```bash
-   npm start
+   npm run dev
    ```
+
+## Usage
+
+Once both the backend and frontend are running, you can access the application at http://localhost:5173 (Vite app) and interact with the e-commerce features.
 
 ## Notes:
 
