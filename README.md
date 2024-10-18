@@ -49,21 +49,21 @@ The backend API exposes various endpoints for product management. Below are the 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/dhanushkorada/Shopsphere.git
-   cd Shopsphere
+      git clone https://github.com/dhanushkorada/Shopsphere.git
+      cd Shopsphere
    ```
 2. Navigate to the backend directory:
 
   ```bash
-  cd Shopsphere
+     cd Shopsphere
   ```
 3. Run the Spring Boot application:
 
    ```bash
-   mvn spring-boot:run
+      mvn spring-boot:run
    ```
 
-###Frontend
+### Frontend
 
 1. Navigate to the Frontend directory::
    ```bash
@@ -72,12 +72,12 @@ The backend API exposes various endpoints for product management. Below are the 
 2. Install dependencies:
 
    ```bash
-   npm install
+      npm install
    ```
 3. Start the React application:
 
    ```bash
-   npm run dev
+      npm run dev
    ```
 
 ## Usage
