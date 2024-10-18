@@ -56,7 +56,7 @@ The backend API exposes various endpoints for product management. Below are the 
 2. Navigate to the backend directory:
 
   ```bash
-     cd Shopsphere
+     cd backend
   ```
 3. Run the Spring Boot application:
 
