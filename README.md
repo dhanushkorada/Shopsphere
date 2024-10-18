@@ -6,12 +6,11 @@ ShopSphere is an e-commerce web application that allows users to browse, search,
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Backend API](#backend-api)
+- [Backend](#backend)
 - [Frontend](#frontend)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Application Preview](#Application-Preview)
 
 ## Features
 
