@@ -28,6 +28,10 @@ ShopSphere is an e-commerce web application that allows users to browse, search,
 - **Database**: H2 Database (or any other preferred database)
 - **Image Upload**: MultipartFile for handling images
 
+## Frontend
+
+The frontend is built using React and communicates with the backend via Axios. The UI is designed for ease of use, allowing users to navigate through product listings and manage their cart effectively.
+
 ## Backend API
 
 The backend API exposes various endpoints for product management. Below are the key endpoints:
@@ -38,6 +42,22 @@ The backend API exposes various endpoints for product management. Below are the 
 - `PUT /api/product/{id}`: Update an existing product (requires updated product details and image).
 - `DELETE /api/product/{id}`: Delete a product by ID.
 - `GET /api/products/search`: Search for products by keyword.
+
+## Installation
+
+### Backend
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/ecom_project.git
+   cd ecom_project
+   ```
+2. Navigate to the backend directory:
+
+  ```bash
+  cd backend
+  ```
+3. 
 
 ## Notes:
 
